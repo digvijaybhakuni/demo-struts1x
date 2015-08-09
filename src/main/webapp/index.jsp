@@ -10,6 +10,8 @@
 	<title>Struts Login With Internationalization and Localization Demo  | DGStack.com</title>
 </head>
 <body>
+	<img alt="DGStack.com" height="86px" src="img/DGStackLogo.png">
+	<img alt="Struts" src="img/struts.gif">
 	<h3><bean:message key="dgstack.header.login"/></h3>
 	<html:form action="/login" method="post" focus="username">
 	<table>
